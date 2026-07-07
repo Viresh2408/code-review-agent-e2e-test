@@ -1,2 +1,2 @@
-# code-review-agent-e2e-test
-Temporary repo for Code Review Agent E2E test — auto-deleted
+# Test Repo
+Temporary repository for Code Review Agent end-to-end testing.
